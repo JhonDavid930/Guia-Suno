@@ -4,7 +4,7 @@
 
 Una herramienta web interactiva diseñada para músicos, productores y creadores de contenido que utilizan **Suno AI**. Esta aplicación ayuda a navegar los complejos cambios en los Términos de Servicio (post-acuerdo Warner Music Group) y las políticas de monetización para 2026.
 
-🔗 **[Ver Demo en Vivo](TU_LINK_DE_GITHUB_PAGES_AQUI)**
+🔗 **[Ver Demo en Vivo](https://jhondavid930.github.io/Guia-Suno/)**
 
 ## ✨ Características Principales
 
